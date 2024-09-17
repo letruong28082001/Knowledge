@@ -1,4 +1,4 @@
-# Relational Database Design
+# Relational_Database_Design
 
 ## I. Giới thiệu chung
 
